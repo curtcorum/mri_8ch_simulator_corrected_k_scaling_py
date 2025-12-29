@@ -1,1 +1,1 @@
-This is a dummy file.
+        "<a href=\"https://colab.research.google.com/github/curtcorum/mri_8ch_simulator_corrected_k_scaling_py/blob/main/mri_8ch_simulator_corrected_k_scaling_py.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
